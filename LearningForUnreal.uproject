@@ -61,6 +61,10 @@
 		{
 			"Name": "UVEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
